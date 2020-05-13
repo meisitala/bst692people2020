@@ -11,8 +11,8 @@ library(roxygen2)
 
 1. Clone this project
 2. Add a branch with a name like rayBranch or laylaBranch or bobBranch
-3. Add an R file in the R directory
-4. Add a function that has some unbelievable/interesting facts and one lie. The function sould be like this:
+3. Add an R file in the R directory with a name like aboutRay.R or aboutLayla.R or aboutBob.R
+4. Add a function that has some unbelievable/interesting facts and one lie about you and/or your loved ones. The function sould be like this:
 
 ```
 #' @export aboutRay
@@ -56,5 +56,5 @@ aboutRay <- function() {
 2. Save the file
 3. Use the Build menu and choose Document 
 4. Check the Tab and hopefully you will see a both an R/aboutRay.R file and a man/aboutRay.Rd file
-7. Commit both files
-8. Push the branch
+5. Commit both files
+6. Push the branch
