@@ -1,6 +1,6 @@
 #' The aboutRay Function
 #'
-#' @description This is four truths and one lie.... The lie is XX.
+#' @description This is four truths and one lie.... The lie is about SpongeBob.
 #'
 #' @return NA
 #' @export aboutRay

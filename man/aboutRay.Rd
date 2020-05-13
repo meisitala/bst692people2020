@@ -10,5 +10,5 @@ aboutRay()
 NA
 }
 \description{
-This is four truths and one lie.... The lie is XX.
+This is four truths and one lie.... The lie is about SpongeBob.
 }
