@@ -1,3 +1,9 @@
+
+#' The aboutRay Function
+#'
+#' @description This is four truths and one lie.... The lie is XX.
+#'
+#' @return
 #' @export aboutRay
 aboutRay <- function() {
   cat("Which of these is a lie: \n")
