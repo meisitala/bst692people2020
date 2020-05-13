@@ -27,11 +27,11 @@ aboutRay <- function() {
 ```
 Don't foret the `#' @export line`.
 
-4a. Speculate about what is the lie.
-5. Save the file
-6. Stage the file
-7. Commit the file
-8. Push the branch
+5. Speculate about what is the lie.
+6. Save the file
+7. Stage the file
+8. Commit the file
+9. Push the branch
 
 ## Part 2
 1. Modify your function so it include other information needed for making the documentation
