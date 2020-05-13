@@ -10,7 +10,7 @@ library(roxygen2)
 ```
 
 1. Clone this project
-2. Add a branch with a name like rayBranch or Layla
+2. Add a branch with a name like rayBranch or laylaBranch or bobBranch
 3. Add an R file in the R directory
 4. Add a function that has some unbelievable/interesting facts and one lie. The function sould be like this:
 
