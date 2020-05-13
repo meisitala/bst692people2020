@@ -1,8 +1,8 @@
 # Homework 1
-This is a crazy new assignment.  You will download an R package that is in development, add a fuction, and publish it on github.  Then you will add some code that produces a manual page, build the documentation and publish the updated version to github.
+This is a crazy new assignment.  You will download the code for an R package that is in development, add a fuction, and publish it on github.  Then you will add some code that produces a manual page, build the documentation and publish the updated version to github.
 
 ## Part 1
-0. install the roxygen2 package and then use it:
+0. Install the roxygen2 package and then use it:
 
 ```
 install.packages("roxygen2")
@@ -27,13 +27,14 @@ aboutRay <- function() {
 ```
 Don't foret the `#' @export line`.
 
+4a. Speculate about what is the lie.
 5. Save the file
 6. Stage the file
 7. Commit the file
 8. Push the branch
 
 ## Part 2
-1. Modify you function so it include other information needed for making the documentation
+1. Modify your function so it include other information needed for making the documentation
 
 ```
 #' The aboutRay Function
@@ -54,6 +55,6 @@ aboutRay <- function() {
 
 2. Save the file
 3. Use the Build menu and choose Document 
-4. Check the Tab and hopefully you will see a both an R/RayBalise.R file and a man/aboutRay.Rd file
+4. Check the Tab and hopefully you will see a both an R/aboutRay.R file and a man/aboutRay.Rd file
 7. Commit both files
 8. Push the branch
