@@ -9,7 +9,7 @@ install.packages("roxygen2")
 library(roxygen2)
 ```
 
-1. Clone this project
+1. Clone this project with R Studio
 2. Add a branch with a name like rayBranch or laylaBranch or bobBranch
 3. Add an R file in the R directory with a name like aboutRay.R or aboutLayla.R or aboutBob.R
 4. Add a function that has some unbelievable/interesting facts and one lie about you and/or your loved ones. The function sould be like this:
@@ -25,7 +25,9 @@ aboutRay <- function() {
   cat("5. Ray took his son to the world premiere of the SpongeBob SquarePants movie in 2004.\n")
 }
 ```
-Don't foret the `#' @export line`.
+Don't forget the `#' @export line`.
+
+Using R Studio, do the following: 
 
 5. Speculate about what is the lie.
 6. Save the file
