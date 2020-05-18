@@ -1,5 +1,5 @@
 # Homework 1
-This is a crazy new assignment.  You will download the code for an R package that is in development, add a fuction, and publish it on github.  Then you will add some code that produces a manual page, build the documentation and publish the updated version to github.
+This is a crazy new assignment.  You will download the code for an R package that is in development, add a fuction, and publish it on github.  Then you will add some code that produces a manual page, build the documentation and publish the updated version to github. 
 
 ## Part 1
 0. Install the roxygen2 package and then use it:
