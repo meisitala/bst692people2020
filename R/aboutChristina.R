@@ -1,3 +1,8 @@
+#' The aboutChristina Function
+#'
+#' @description This function contains 1 lie and 4 truths about my loved ones and I. The lie is #1. I am a really terrible dancer.
+#'
+#' @return NA
 #' @export aboutChristina
 aboutChristina <- function() {
   cat("Which of these is a lie: \n")
