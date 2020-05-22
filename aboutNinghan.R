@@ -1,3 +1,8 @@
+#' The aboutNinghan Function
+#'
+#' @description This is four truths and one lie.... The lie is Ninghan has stayed at home for two months..
+#'
+#' @return NA
 #' @export aboutNinghan
 aboutNinghan <- function() {
   cat("Which of these is a lie: \n")
